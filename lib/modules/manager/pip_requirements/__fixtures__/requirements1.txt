@@ -4,3 +4,6 @@ some-package==0.3.1
 some-other-package==1.0.0
 sphinx
 not_semver==1.9
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
