@@ -1,3 +1,4 @@
+Django==4.2.22 # renovate
 Django==4.2.24 # renovate
 Django==4.2.26 # renovate
 Django==4.2.27 # renovate
