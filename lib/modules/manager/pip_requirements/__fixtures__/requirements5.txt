@@ -2,6 +2,7 @@
 --index-url https://artifactory.company.com/artifactory/api/pypi/python/simple --trusted-host artifactory.company.com --default-timeout 600
 --extra-index-url http://example.com/private-pypi/
 # Packages
+Django==5.0.14
 Django==4.2.21
 Django==4.2.22
 Django==4.2.24
