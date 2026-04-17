@@ -4,6 +4,7 @@
 --extra-index-url "http://$PIP_TEST_TOKEN:example.com/private-pypi/"
 --extra-index-url "http://${PIP_TEST_TOKEN1}:example.com/private-pypi/"
 # Packages
+Django==4.2.22
 Django==4.2.24
 Django==4.2.26
 Django==4.2.27
